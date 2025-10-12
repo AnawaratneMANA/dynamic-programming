@@ -101,7 +101,6 @@ public class SwapNodesInPairs {
         printList(swapped4);
         System.out.println();
 
-
         // Test 2: odd number of nodes
         int[] data2 = {1, 2, 3};
         ListNode head2 = buildList(data2);
